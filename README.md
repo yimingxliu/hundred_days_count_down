@@ -1,1 +1,1 @@
-# hundred_days_count_down
+This is a project for every days' programming records

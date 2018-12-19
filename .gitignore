@@ -126,3 +126,8 @@ venv.bak/
 
 # Mongo Explorer plugin:
 # .idea/mongoSettings.xml
+
+### OSX template
+.DS_Store
+.AppleDouble
+.LSOverride
